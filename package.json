@@ -1,0 +1,26 @@
+{
+  "name": "opentok-node-promise",
+  "version": "0.0.1",
+  "description": "OpenTok Server SDK with Promisified API",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggarber/opentok-promise.git"
+  },
+  "keywords": [
+    "opentok"
+  ],
+  "author": "Gustavo Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggarber/opentok-promise/issues"
+  },
+  "homepage": "https://github.com/ggarber/opentok-promise#readme",
+  "dependencies": {
+    "opentok": "^2.3.2",
+    "rsvp": "^3.2.1"
+  }
+}
